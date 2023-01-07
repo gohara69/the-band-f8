@@ -208,6 +208,65 @@ html {
     margin-top: -5px;
 }
 
+/*   Places   */
+.place-list {
+    margin-top: 32px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+.place-item {
+    float: left;
+    width: 33.33333%;
+    padding: 0 8px;
+}
+
+.place-image {
+    width: 100%;
+    display: block;
+}
+
+.place-image:hover {
+    opacity: 0.6;
+}
+
+.place-info {
+    text-align: left;
+    background-color: #fff;
+    padding: 16px;
+    font-size: 15px;
+}
+
+.place-heading {
+    margin-bottom: 15px;
+}
+
+.place-date {
+    margin-bottom: 15px;
+    opacity: 0.6;
+}
+
+.place-description {
+    margin-bottom: 15px;
+    line-height: 1.4;
+}
+
+.place-but-btn {
+    color: #fff;
+    background-color: #000;
+    text-decoration: none;
+    padding: 11px 16px;
+    display: inline-block;
+}
+
+.place-but-btn:hover {
+    color: #000;
+    background-color: #ccc;
+}
+
+/*  Modal  */
+
+
 #footer {
 
 }
